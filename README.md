@@ -31,10 +31,15 @@
 - 🎭 **[cox-watermarking](https://github.com/israkir/cox-watermarking)** — hide bits inside other bits. spread-spectrum informed watermarking in MATLAB. 29 ⭐, 15 forks. steganography's nerdy cousin.
 - 🕸️ **[conceptnet5-client](https://github.com/israkir/conceptnet5-client)** — walk the knowledge graph. reason over it. Python client + graph-walk inference for ConceptNet5. 26 ⭐.
 - 📶 **[zigduino-aodv-routing](https://github.com/israkir/zigduino-aodv-routing)** — AODV on Zigduino. mesh routing in C. packets, uh, find a way.
-- 🧮 **[booth-multiplicator](https://github.com/israkir/booth-multiplicator)** — Booth's algorithm in MIPS assembly. we multiply the hard way. 5 ⭐ of respect.
+- 🔗 **[semantic-relation-composition](https://github.com/israkir/semantic-relation-composition)** — reason over relations. graph-walk style. semantic composition go brr.
+- 😤 **[sentiment-analyzer](https://github.com/israkir/sentiment-analyzer)** — Chinese sentiment orientation for discourse relation pairs. ActionScript. feelings, quantified.
+- ⛓️ **[forward-chaining-reasoning](https://github.com/israkir/forward-chaining-reasoning)** — naïve forward chaining in Lisp. if A and B then C. the classic.
 - 👁️ **[Visualize-ConceptNet](https://github.com/israkir/Visualize-ConceptNet)** — the graph, visualized (CoffeeScript). *see it.*
 - 🏷️ **[concept-tag-generator](https://github.com/israkir/concept-tag-generator)** — content → concepts → tags, powered by ConceptNet. NLP without the buzzword bingo.
-- 🔗 **[semantic-relation-composition](https://github.com/israkir/semantic-relation-composition)** — reason over relations. graph-walk style. semantic composition go brr.
+- 📝 **[csie-parser](https://github.com/israkir/csie-parser)** — parser for an "imaginative" csie programming language. because every language deserves a parser.
+- 🔍 **[sourcecode-scanner](https://github.com/israkir/sourcecode-scanner)** — source code scanner written with flex. tokens before they were cool.
+- 🧮 **[booth-multiplicator](https://github.com/israkir/booth-multiplicator)** — Booth's algorithm in MIPS assembly. we multiply the hard way.
+- 🎵 **[music-compiler](https://github.com/israkir/music-compiler)** — compile text-based musical compositions. C. because code and music share a grammar.
 
 ---
 
