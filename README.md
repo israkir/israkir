@@ -1,6 +1,6 @@
   # hey, i'm israkir 👋
 
-  **first-person nerd | bits & bytes tinkerer
+  **first-person nerd | bits & bytes tinkerer**
   ---
 
   ## 🔬 what i'm about
