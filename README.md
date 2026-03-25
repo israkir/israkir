@@ -6,7 +6,7 @@
 
   ## 🔬 what i'm about
 
-  **recent focus:** making observability and telemetry actually testable (so your LLM pipelines don't fly blind), giving financial research some structure and compliance muscle, and feeding AI agents APIs that are fast and cheap. if it has an algorithm and a purpose, i'm probably into it.
+  **recent focus:** analyzing prompts for intent-tribes, making observability and telemetry actually testable (so your LLM pipelines don't fly blind), giving financial research some structure and compliance muscle, and feeding AI agents APIs that are fast and cheap. if it has an algorithm and a purpose, i'm probably into it.
 
   **old habit / lasting interest:** signal processing and knowledge representation. spread-spectrum watermarking in MATLAB, ConceptNet clients and graph walks in Python/CoffeeScript, AODV on Zigduino, Booth's multiplier in MIPS — that era still shapes how i think.
 
