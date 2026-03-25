@@ -16,6 +16,7 @@
 
   *what's on the bench right now ([repos](https://github.com/israkir?tab=repositories))*
 
+  - 🧠 **[semantic-clustering](https://github.com/israkir/semantic-clustering)** — "turn prompt vibes into points, then let density find the tribes" analysis.
   - 📡 **[telemetry-simulator](https://github.com/israkir/telemetry-simulator)** — fake traces, metrics & logs so convincing your observability stack will write home about them. agentic planning, tool recs for LLMs, tool calls with outer + inner policy-controller traces (yes, both layers)—the full agent stack, simulated. schema-driven OpenTelemetry for LLM land. "it works on my machine" should include "and my telemetry too."
   - 📈 **[copinance-os](https://github.com/israkir/copinance-os)** — [Copinance OS](https://github.com/Copinance/copinance-os): fin research with structure. when "just use a spreadsheet" isn't enough. compliance and "yes, we actually checked" energy.
   - 🤖 **[onemcp](https://github.com/israkir/onemcp)** — API access for AI agents: fast, accurate, cost-efficient. ([OneMCP](https://github.com/Gentoro-OneMCP/onemcp)) agents gotta eat too.
