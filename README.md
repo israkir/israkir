@@ -14,11 +14,14 @@
 
   ## 🌱 recent interest / currently working on
 
+    ## 🌱 recent interest / currently working on
+
   *what's on the bench right now ([repos](https://github.com/israkir?tab=repositories))*
 
   - 📈 **[copinance-os](https://github.com/israkir/copinance-os)** — [Copinance OS](https://github.com/Copinance/copinance-os): fin research with structure. when "just use a spreadsheet" isn't enough. compliance and "yes, we actually checked" energy.
+  - 💧 **[nefro](https://github.com/israkir/nefro)** — cross-platform hemodialysis companion (iOS · Android · Web). patients and nephrologists, one shared clinical core. Turkish-first, offline-capable mobile, KVKK-aware backend. labs and dialysis without the phone-tag.
+  - 📝 **[israkir-prompts](https://github.com/israkir/israkir-prompts)** — reusable task briefs for coding agents. manifest + CLI, `@` in Cursor, phases before patches. when "just wing it in chat" isn't reproducible enough.
   - 🧠 **[semantic-clustering](https://github.com/israkir/semantic-clustering)** — "turn prompt vibes into points, then let density find the tribes" analysis.
-  - 📡 **[telemetry-simulator](https://github.com/israkir/telemetry-simulator)** — fake traces, metrics & logs so convincing your observability stack will write home about them. agentic planning, tool recs for LLMs, tool calls with outer + inner policy-controller traces (yes, both layers)—the full agent stack, simulated. schema-driven OpenTelemetry for LLM land. "it works on my machine" should include "and my telemetry too."
   - 🤖 **[onemcp](https://github.com/israkir/onemcp)** — API access for AI agents: fast, accurate, cost-efficient. ([OneMCP](https://github.com/Gentoro-OneMCP/onemcp)) agents gotta eat too.
 
   *(reminder to myself: update this whenever the backlog wins or a new obsession hits.)*
