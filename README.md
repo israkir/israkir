@@ -1,72 +1,72 @@
-  # hey, i'm israkir 👋
+# hey, i'm israkir 👋
 
-  **first-person nerd | bits & bytes tinkerer**
-  
-  ---
+I build open-source tools where finance, healthcare, developer infrastructure, and AI systems meet.
 
-  ## 🔬 what i'm about
+My earlier work explored signal processing, knowledge representation, embedded networking, and computer architecture. These days, I’m focused on turning complex domains into practical, understandable software.
 
-  **recent focus:** analyzing prompts for intent-tribes, making observability and telemetry actually testable (so your LLM pipelines don't fly blind), giving financial research some structure and compliance muscle, and feeding AI agents APIs that are fast and cheap. if it has an algorithm and a purpose, i'm probably into it.
+---
 
-  **old habit / lasting interest:** signal processing and knowledge representation. spread-spectrum watermarking in MATLAB, ConceptNet clients and graph walks in Python/CoffeeScript, AODV on Zigduino, Booth's multiplier in MIPS — that era still shapes how i think.
+## current focus
 
-  ---
+- 📊 **[Copinance](https://copinance.com)** — learning and research tools for understanding equities, options, and market structure through real data.
 
-  ## 🌱 recent interest / currently working on
+- 🧭 **[copinance-os](https://github.com/israkir/copinance-os)** — the open research stack behind Copinance: reproducible Python pipelines for equities, options, and macro research, designed to keep AI analysis grounded in market data.
 
-    ## 🌱 recent interest / currently working on
+- 🔐 **[dot-vault](https://github.com/israkir/dot-vault)** — securely back up and restore SSH keys, shell profiles, dotfiles, and terminal configurations across machines.
 
-  *what's on the bench right now ([repos](https://github.com/israkir?tab=repositories))*
+- 💧 **[Nefro](https://nefroapp.cc)** — a cross-platform hemodialysis companion for patients and nephrologists. Turkish-first, offline-capable, and built around a shared clinical core.
 
-  - 📈 **[copinance-os](https://github.com/israkir/copinance-os)** — [Copinance OS](https://github.com/Copinance/copinance-os): fin research with structure. when "just use a spreadsheet" isn't enough. compliance and "yes, we actually checked" energy.
-  - 💧 **[nefro](https://github.com/israkir/nefro)** — cross-platform hemodialysis companion (iOS · Android · Web). patients and nephrologists, one shared clinical core. Turkish-first, offline-capable mobile, KVKK-aware backend. labs and dialysis without the phone-tag.
-  - 📝 **[israkir-prompts](https://github.com/israkir/israkir-prompts)** — reusable task briefs for coding agents. manifest + CLI, `@` in Cursor, phases before patches. when "just wing it in chat" isn't reproducible enough.
-  - 🧠 **[semantic-clustering](https://github.com/israkir/semantic-clustering)** — "turn prompt vibes into points, then let density find the tribes" analysis.
-  - 🤖 **[onemcp](https://github.com/israkir/onemcp)** — API access for AI agents: fast, accurate, cost-efficient. ([OneMCP](https://github.com/Gentoro-OneMCP/onemcp)) agents gotta eat too.
+- 🤖 **[OneMCP](https://github.com/Gentoro-OneMCP/onemcp)** — fast, accurate, and cost-efficient API access for AI agents through a unified MCP interface.
 
-  *(reminder to myself: update this whenever the backlog wins or a new obsession hits.)*
+---
 
-  ---
+## what i'm interested in
 
-  ## 🛠️ stuff i've shipped
+- financial research and market structure
+- AI agents, tools, and context infrastructure
+- healthcare software with real-world constraints
+- reproducible data pipelines
+- privacy-aware and offline-capable applications
+- knowledge representation and graph-based reasoning
 
-  *from the signal-processing & knowledge-representation era — still proud of these*
+The common thread is fairly simple: take a complicated system, find its useful structure, and turn that structure into software people can actually work with.
 
-  - 🎭 **[cox-watermarking](https://github.com/israkir/cox-watermarking)** — hide bits inside other bits. spread-spectrum informed watermarking in MATLAB. 29 ⭐, 15 forks. steganography's nerdy cousin.
-  - 🕸️ **[conceptnet5-client](https://github.com/israkir/conceptnet5-client)** — walk the knowledge graph. reason over it. Python client + graph-walk inference for ConceptNet5. coworked with MIT Media Lab — good old graduate school days...
-  - 📶 **[zigduino-aodv-routing](https://github.com/israkir/zigduino-aodv-routing)** — AODV on Zigduino. mesh routing in C. packets, uh, find a way.
-  - 🔗 **[semantic-relation-composition](https://github.com/israkir/semantic-relation-composition)** — reason over relations. graph-walk style. semantic composition go brr.
-  - 😤 **[sentiment-analyzer](https://github.com/israkir/sentiment-analyzer)** — Chinese sentiment orientation for discourse relation pairs. ActionScript. feelings, quantified.
-  - ⛓️ **[forward-chaining-reasoning](https://github.com/israkir/forward-chaining-reasoning)** — naïve forward chaining in Lisp. if A and B then C. the classic.
-  - 👁️ **[Visualize-ConceptNet](https://github.com/israkir/Visualize-ConceptNet)** — the graph, visualized (CoffeeScript). *see it.*
-  - 🏷️ **[concept-tag-generator](https://github.com/israkir/concept-tag-generator)** — content → concepts → tags, powered by ConceptNet. NLP without the buzzword bingo.
-  - 📝 **[csie-parser](https://github.com/israkir/csie-parser)** — parser for an "imaginative" csie programming language. because every language deserves a parser.
-  - 🔍 **[sourcecode-scanner](https://github.com/israkir/sourcecode-scanner)** — source code scanner written with flex. tokens before they were cool.
-  - 🧮 **[booth-multiplicator](https://github.com/israkir/booth-multiplicator)** — Booth's algorithm in MIPS assembly. we multiply the hard way.
-  - 🎵 **[music-compiler](https://github.com/israkir/music-compiler)** — compile text-based musical compositions. C. because code and music share a grammar.
+---
 
-  ---
+## selected earlier work
 
-  ## 🧠 stack & vibes
+- 🎭 **[cox-watermarking](https://github.com/israkir/cox-watermarking)** — spread-spectrum informed watermarking in MATLAB.
+- 🕸️ **[conceptnet5-client](https://github.com/israkir/conceptnet5-client)** — a Python client and graph-walk inference tools for ConceptNet5, developed during my graduate-school work with the MIT Media Lab.
+- 📶 **[zigduino-aodv-routing](https://github.com/israkir/zigduino-aodv-routing)** — an AODV mesh-routing implementation for Zigduino.
+- 🔗 **[semantic-relation-composition](https://github.com/israkir/semantic-relation-composition)** — experiments in relation composition and graph-based reasoning.
+- 👁️ **[Visualize-ConceptNet](https://github.com/israkir/Visualize-ConceptNet)** — a CoffeeScript interface for exploring ConceptNet.
+- 🧮 **[booth-multiplicator](https://github.com/israkir/booth-multiplicator)** — Booth’s multiplication algorithm implemented in MIPS assembly.
+- 🎵 **[music-compiler](https://github.com/israkir/music-compiler)** — a compiler for text-based musical compositions, written in C.
 
-  - **languages:** Python, Java, Scala, MATLAB, C, MIPS assembly, CoffeeScript, TypeScript
-  - **domains (now):** observability & telemetry, financial research, AI/ML tooling  
-  - **domains (old habit):** signal processing, knowledge representation, embedded / wireless, computer architecture  
-  - **mood:** "what if we implemented that paper / that algorithm / that protocol ourselves?"
+---
 
-  ---
+## tools of the trade
 
-  ## 🤝 collab?
+**Languages:** Python, TypeScript, Java, Scala, C, MATLAB, CoffeeScript, Lisp, and MIPS assembly
 
-  i'm into open source, clean implementations, and projects that mix theory and practice. if you're building something with observability, telemetry, knowledge graphs, financial research, or weird embedded routing or you just want to nerd out about algorithms — say aloha!
+**Domains:** financial systems, AI tooling, clinical applications, knowledge graphs, signal processing, and embedded systems
 
-  ---
+I’m most at home where research meets implementation—and where “let’s build it ourselves” is still a reasonable answer.
 
-  *"fake traces, real intent. spreadsheets need backup. agents gotta eat."*  
-  — probably me, after too much coffee
+---
 
-  ---
+## let's connect
 
-  <p align="center">
-    <sub>profile readme · israkir · <a href="https://github.com/israkir">github.com/israkir</a> · <a href="https://github.com/israkir?tab=repositories">repos</a></sub>
-  </p>
+I’m interested in open-source collaboration, particularly around financial research, agent infrastructure, healthcare software, and knowledge-driven systems.
+
+If you’re working on something in that neighborhood, feel free to [reach out](https://github.com/israkir).
+
+---
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/israkir">github.com/israkir</a>
+    ·
+    <a href="https://github.com/israkir?tab=repositories">repositories</a>
+  </sub>
+</p>
