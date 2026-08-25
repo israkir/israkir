@@ -8,7 +8,7 @@ My earlier work explored signal processing, knowledge representation, embedded n
 
 ## current focus
 
-- 📊 **[Copinance](https://copinance.com)** — learning and research tools for understanding equities, options, and market structure through real data.
+- 📊 **[Copinance](https://copinance.com)** — an educational research workspace for equities and options — real market data, inspectable evidence, and the machinery behind the price. 
 
 - 🧭 **[copinance-os](https://github.com/israkir/copinance-os)** — the open research stack behind Copinance: reproducible Python pipelines for equities, options, and macro research, designed to keep AI analysis grounded in market data.
 
